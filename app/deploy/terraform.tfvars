@@ -1,4 +1,4 @@
-cluster_name = "app-prod"
+cluster_name = "app-prod-cluster"
 
 vpc_id = "vpc-062b8efd6df1fda8f"
 
